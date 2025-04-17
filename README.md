@@ -70,7 +70,7 @@
   <a href="mailto:dmitriy.kuznetsov.2022@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail-%2324292e.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="http://t.me/KotyonokMur" target="_blank">
+  <a href="http://t.me/KyznetsovDmitriy" target="_blank">
     <img src="https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>  
 </div>  
