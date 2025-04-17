@@ -60,9 +60,6 @@
   <img width="12" />
   <img src="https://gitlab.com/uploads/-/system/project/avatar/44178777/logo.png" alt="Assembler logo" title="Assembler" height="50" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/github/explore/fb1413905cbb7f6639f234c4e2c933e69f484a4f/topics/matlab/matlab.png" alt="MatLab logo" title="MatLab" height="50" />
-  <img width="12" />
-  <img src="https://filehulk.com/wp-content/uploads/2020/01/packet-Tracer-Picture.png" alt="CPT logo" title="Cisco Pocket Tracer" height="50" />
 </div>
 
 <br/>  
