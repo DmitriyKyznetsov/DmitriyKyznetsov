@@ -58,8 +58,6 @@
   <img width="12" />
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL logo" title="MySQL" height="50" />
   <img width="12" />
-  <img src="https://gitlab.com/uploads/-/system/project/avatar/44178777/logo.png" alt="Assembler logo" title="Assembler" height="50" />
-  <img width="12" />
 </div>
 
 <br/>  
